@@ -8,8 +8,8 @@ let selectedIndex = colorSet.selectedIndex;
 // console.log(selectedIndex);
 	if (selectedIndex !== -1) {
 		colorSet.remove(selectedIndex)
+	// colorSet.remove(selectedColor);	
 		
 	}
-	colorSet.remove(selectedColor);	
 	
 }
